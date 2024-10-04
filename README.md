@@ -22,7 +22,7 @@ Heu d'adaptar el contingut de config.txt al vostre ordinador. Obriu-lo amb el bl
 La primera línia indica on es troba el  programa musescore. L'heu de canviar si en el vostre ordinador es troba en un directori diferent o teniu instal.lada una altra versió del programa. 
 A la segona linia s'indica que el programa farà servir la font de text arial.ttf, que en el meu ordinador es troba en el lloc indicat. Si és necessari, canvieu el lloc on es troba la font en el vostre ordinador i canvieu-la al vostre gust.
 
-	Després de modificar config.txt guardeu-lo com a arxiu de text  sense format (*.txt)
+Després de modificar config.txt guardeu-lo com a arxiu de text  sense format (*.txt)
 
 Quan el programa s'executa el primer que fa es confirmar que museescore i la font de text especificats en config.txt existeixen en el lloc que s'ha indicat. Si no és així, s'obre una finestra dient que no s'ha trobat l'arxiu i heu de modificar config.txt amb les "adreces" correctes.
 
